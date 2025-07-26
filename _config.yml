@@ -13,7 +13,7 @@ title                    : "Hants Williams, Ph.D, R.N."
 title_separator          : "-"
 name                     : &name "Hants Williams"
 description              : &description "Clinical nurse scientist turned data specialist with 15 years of experience spanning health systems, research labs, academia, and digital health startups"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://hantswilliams.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
