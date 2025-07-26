@@ -1,0 +1,564 @@
+{
+  "basics": {
+    "name": "Hants Williams, Ph.D, R.N.",
+    "email": "hantsawilliams@gmail.com",
+    "phone": "650-218-3789",
+    "website": "https://academicpages.github.io",
+    "summary": "Clinical nurse scientist turned data specialist with 15 years of experience spanning health systems, research labs, academia, and digital health startups. Cocreated data products impacting 8M+ lives, raised $15M+ in venture funding for two early-stage companies, provided statistical consultation for basic & applied research studies at multiple R1 academic research centers, built a talent pipeline of ≈300 graduate informatics students with 90% placed in analytics roles within six months, and saved $500k at Stony Brook through custom BI data solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "New York",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "YouTube",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Stony Brook University",
+      "position": "Director of Scholarship, Innovation, and Analytics",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "present",
+      "summary": "Responsible for all research and scholarship activity across 13 departments, representing 100+ full time faculty and their research for the largest health school at Stony Brook University.",
+      "highlights": [
+        "Reviewed and approved 15 external NIH, NSF, and private foundation grants applications that have successfully led to $2.6M dollars of funding for the school",
+        "Saved $500k by internally developing a web service to autoingest publications, IRB protocols, and grants",
+        "Built a ETL pipeline for 12 new data sources for 25 Tableau dashboards, saving $50k annually"
+      ]
+    },
+    {
+      "company": "Stony Brook University",
+      "position": "Clinical Associate Professor",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "present",
+      "summary": "Schools of Medicine, Health Professions",
+      "highlights": []
+    },
+    {
+      "company": "Stony Brook University",
+      "position": "Clinical Assistant Professor",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2023",
+      "summary": "Schools of Medicine, Health Professions",
+      "highlights": []
+    },
+    {
+      "company": "Stony Brook University",
+      "position": "Program Director Applied Health Informatics",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "School of Health Professions",
+      "highlights": []
+    },
+    {
+      "company": "Options MD",
+      "position": "Data Scientist",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2023",
+      "summary": "Part-time, Contract",
+      "highlights": [
+        "Contributed analytics insights and technical due diligence supporting achievement of strategic milestones that helped led to the company's acquisition in 2025",
+        "Built HIPAA-compliant data pipeline for internal clinical decision support tool integrated with DrChrono EMR",
+        "Enriched an NLP-driven symptom-trend scraping tool, analyzing over 500k posts"
+      ]
+    },
+    {
+      "company": "National Health IT Collaborative for the Underserved",
+      "position": "Data Scientist",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2024",
+      "summary": "Contract",
+      "highlights": [
+        "Architected a SDoH lakehouse ingesting 4B rows from 100k+ open datasets",
+        "Conducted geospatial analysis of 6k patient records from partner Sonitas Health",
+        "Developed 3 unique geospatial dashboards based on a subset of 5M semi-standardized data points"
+      ]
+    },
+    {
+      "company": "VirtualHealth",
+      "position": "Director, Clinical Informatics and Operations",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "2020",
+      "summary": "FTE",
+      "highlights": [
+        "Led a seven-member pod for utilization analytics and care plans for 8M members across 15 states",
+        "Developed and managed empirically based patient-centered tools and clinical care pathways",
+        "Contributed to the organization's positioning as a recognized industry leader"
+      ]
+    },
+    {
+      "company": "Parsley Health",
+      "position": "Data Scientist",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "2024",
+      "summary": "Part-time, contract",
+      "highlights": [
+        "Created the Parsley Symptom Index (≥1M completions across 30+ states)",
+        "Conducted cohort analyses that lead to 4 peer-reviewed publications",
+        "Co-architected the first outcomes data warehouse that originally supported 1k+ monthly encounters"
+      ]
+    },
+    {
+      "company": "BioVirtua",
+      "position": "Founder",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "2020",
+      "summary": "Part-time",
+      "highlights": [
+        "Raised $500k seed VC for 2D pose-estimation telehealth products, and filed 2 provisional patents",
+        "Conducted extensive usability and validation studies across 200+ participants",
+        "Engineering team acquired by Vori Health in 2020"
+      ]
+    },
+    {
+      "company": "University of Maryland, School of Nursing",
+      "position": "Post-doc Researcher",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": [
+        "Applied mRNA/next-gen sequencing with R to map over 200 genetic pain pathways, identifying 15 biomarkers of interest that contributed to an existing $3M R01 NIH grant"
+      ]
+    },
+    {
+      "company": "Duke University Health System",
+      "position": "Research Nurse",
+      "website": "",
+      "startDate": "2011",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": [
+        "Led 2 clinical trials in the rare disease of sickle-cell disease (SCD), manually recruiting ~50 complex patients with a retention rate >80%",
+        "Created and delivered 3 care provider training modules on pain-contracts and SCD pain crisis management",
+        "Used SAS for time series modeling and Atlas for qualitative analysis"
+      ]
+    },
+    {
+      "company": "Stanford University",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2009",
+      "endDate": "2011",
+      "summary": "",
+      "highlights": [
+        "Ran data collection for 100+ individual EEG and GSR sessions across multiple experimental psychology protocols",
+        "Co-authored high-impact publication on emotion regulation in the journal of Psychological Sciences (IF 10.172)",
+        "Analyzed fMRI data with custom R scripts for exploring to emotion regulation neurological mechanisms"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland Baltimore, School of Nursing",
+      "area": "Postdoctoral Fellowship in Pain Genetics",
+      "studyType": "",
+      "startDate": "2015",
+      "endDate": "2016",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Duke University, School of Nursing",
+      "area": "PhD in Nursing Science, Quantitative",
+      "studyType": "",
+      "startDate": "2011",
+      "endDate": "2015",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "San Francisco State University, School of Nursing",
+      "area": "Baccalaureate of Nursing Science",
+      "studyType": "",
+      "startDate": "2009",
+      "endDate": "2011",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "San Jose State University",
+      "area": "Bachelors of Science, Double major Psychology, Behavioral Science",
+      "studyType": "",
+      "startDate": "2007",
+      "endDate": "2009",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Science & Primary Research",
+      "keywords": [
+        "Doctorally trained in quantitative, qualitative, and mixed-methods designs",
+        "PI/coPI on federal, state, and foundation grants",
+        "20 peer-reviewed papers (h-index 8, ~570 citations)",
+        "IRB advisor on AI ethics",
+        "Editorial board member, International Journal of AI in Healthcare"
+      ]
+    },
+    {
+      "name": "Traditional Statistics and Analytics",
+      "keywords": [
+        "Descriptive and Inferential statistics with Python, R, and SAS",
+        "Geospatial analysis with Python and ArcGIS",
+        "Data triangulation and aggregation of open source data",
+        "Visualization with Python, Tableau, PowerBI, Superset"
+      ]
+    },
+    {
+      "name": "Applied AI/ML",
+      "keywords": [
+        "Design and deploy ML pipelines with scikit-learn",
+        "Computer-vision models with OpenCV & YOLO",
+        "NLP services with spaCy",
+        "Self-hosted SLMs for generative tasks",
+        "GPU-intensive experiments in Hugging Face"
+      ]
+    },
+    {
+      "name": "Rapid Software Prototyping",
+      "keywords": [
+        "Python and JavaScript for frontend & backend",
+        "Sqlite/MySQL or MongoDB for database",
+        "Containerize with Docker and deploy to self-hosted or cloud",
+        "CI/CD via GitHub Actions"
+      ]
+    },
+    {
+      "name": "Healthcare Delivery Informatics",
+      "keywords": [
+        "Licensed RN with chronic-disease management experience",
+        "Power-user of Cerner and Epic",
+        "Build real-world data pipelines from claims and warehouse sources",
+        "HIPAA/HITRUST and FHIR/HL7 standards"
+      ]
+    },
+    {
+      "name": "Academic Leadership/Higher Education",
+      "keywords": [
+        "Administrative leadership within public and private universities",
+        "Strategic oversight of analytical research initiatives",
+        "Developing revenue-generating analytics services",
+        "Teaching and mentoring from undergraduate through postdoctoral/residency training"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "A Descriptive Analysis of DCAT-Compliant Data Catalogs: Characteristics and Themes Across Federal, State, County, City, and Territorial Entities in the United States",
+      "publisher": "Data Intelligence",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Williams, H."
+    },
+    {
+      "name": "The External Validity of the Parsley Symptom Index ePROM Instrument in Patients with Multiple Chronic Diseases: A Retrospecive Cohort Study",
+      "publisher": "JMIR formative research",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Williams, H., Steinberg, S., Leon, K., Vingum, R., Hu, M., Berzin, R., Hagg, H., Hanaway, P."
+    },
+    {
+      "name": "Parsley Health: Feasibility and acceptability of a large-scale holistic telehealth program for chronic disease care",
+      "publisher": "Frontiers in digital health",
+      "releaseDate": "2023",
+      "website": "",
+      "summary": "Williams, H., Steinberg, S., Vingum, R., Leon, K., Céspedes, E., Berzin, R., & Hagg, H."
+    },
+    {
+      "name": "Validity of the Parsley Symptom Index-an Electronic Patient-Reported Outcomes Measure Designed for Telehealth: Prospective Cohort Study",
+      "publisher": "JMIR formative research",
+      "releaseDate": "2022",
+      "website": "",
+      "summary": "Williams, H., Steinberg, S., Leon, K., O'Shea, C., Berzin, R., & Hagg, H."
+    },
+    {
+      "name": "The Development of a Digital Patient-Reported Outcome Measurement for Adults With Chronic Disease (The Parsley Symptom Index): Prospective Cohort Study",
+      "publisher": "JMIR formative research",
+      "releaseDate": "2021",
+      "website": "",
+      "summary": "Williams, H., Steinberg, S., & Berzin, R."
+    },
+    {
+      "name": "Clinical Encounters and Treatment Initiation for Chronic Hepatitis C Patients: Applications of Adaptive Leadership Framework for Chronic Illness",
+      "publisher": "Sage Open",
+      "releaseDate": "2019",
+      "website": "DOI 10.1177/2158244018824461",
+      "summary": "Bailey, D. E., Muir, A. J., Adams, J. A., Thygeson, N. M., Williams, H., Cary, M. P., and Anderson, R. A."
+    },
+    {
+      "name": "Decreased Bleeding Incidence With Direct Oral Anticoagulants Compared to Vitamin K Antagonist and Low-Molecular-Weight Heparin in Patients With Sickle Cell Disease and Venous Thromboembolism",
+      "publisher": "Acta Haematol",
+      "releaseDate": "2019",
+      "website": "PMID: 31108496",
+      "summary": "A. Patel, H. Williams, M. R. Baer, A. B. Zimrin, J. Y. Law"
+    },
+    {
+      "name": "Acceptability and feasibility of a mindfulness-based intervention for pain catastrophizing among persons with sickle cell disease",
+      "publisher": "Pain Management Nursing",
+      "releaseDate": "2019",
+      "website": "NIHMS1512965, Publ.ID: YJPMN849",
+      "summary": "Simmons, L. A., Williams, H., Silva, S., Keefe, F., & Tanabe, P."
+    },
+    {
+      "name": "Social and Behavioral Factors in Sickle Cell Disease: Employment Predicts Decreased Health Care Utilization",
+      "publisher": "Journal for Poor and Underserved",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": "H Williams, S Susan, D Cline, C Freiermuth, P Tanabe"
+    },
+    {
+      "name": "Use of direct oral anticoagulants in patients with sickle cell disease and venous thromboelism is associated with a significant decrease in incidence of bleeding",
+      "publisher": "Blood",
+      "releaseDate": "2017",
+      "website": "",
+      "summary": "A Patel, H Williams, M R Baer, A B Zimrin, J Y Law"
+    },
+    {
+      "name": "Sickle Cell Disease: A Review of Non-Pharmacological Approaches for Pain",
+      "publisher": "Journal of Pain and Symptom Management",
+      "releaseDate": "2015",
+      "website": "DOI: 10.1016/j.jpainsymman.2015.10.017",
+      "summary": "Williams, H., and Tanabe, P."
+    },
+    {
+      "name": "Mindfulness-based Stress Reduction in Advanced Nursing Practice: A Non-pharmacologic Approach to Health Promotion, Chronic Disease Management, and Symptom Control",
+      "publisher": "Journal of Holistic Nursing",
+      "releaseDate": "2015",
+      "website": "DOI 10.1177/0898010115569349",
+      "summary": "Williams, H., Simmons, L. A., and Tanabe, P."
+    },
+    {
+      "name": "Implementation of a social worker screening process to explore unmet psychological and social needs for adults with sickle cell disease in the emergency department",
+      "publisher": "The Journal of Pain",
+      "releaseDate": "2015",
+      "website": "",
+      "summary": "H Williams, P Tanabe"
+    },
+    {
+      "name": "Reappraisal facilitates extinction in healthy and socially anxious individuals",
+      "publisher": "Journal of Behavior Therapy & Experimental Psychiatry",
+      "releaseDate": "2015",
+      "website": "",
+      "summary": "Blechert, J., Wilhelm, F.H., Williams, H., Braams, B.R., Jou, J., & Gross, J.J."
+    },
+    {
+      "name": "Behavioral health needs of patients with Sickle Cell Disease in the emergency department",
+      "publisher": "The Journal of Pain",
+      "releaseDate": "2014",
+      "website": "",
+      "summary": "H Williams, C Freirmuth, D Cline, J Johnston, C Rutherford, V Thornton"
+    },
+    {
+      "name": "See What You Think: Reappraisal Modulates Behavioral and Neural Responses to Social Stimuli",
+      "publisher": "Psychological Science",
+      "releaseDate": "2012",
+      "website": "",
+      "summary": "Blechert, J., Sheppes, G., Di Tella, C., Williams, H., & Gross, J. J."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "SUNY IITG Demo Day: Presentation of a Deep Fake Platform for Educators",
+      "event": "University Buffalo, SUNY",
+      "date": "2024",
+      "location": "Buffalo, NY, USA",
+      "description": ""
+    },
+    {
+      "name": "Next-generation Sequencing (NSG) in Biomedical Research",
+      "event": "Guest lecture for HBM 522 Biology of Cancer, Stony Brook, SUNY",
+      "date": "2024",
+      "location": "Stony Brook, NY, USA",
+      "description": ""
+    },
+    {
+      "name": "Health Informatics 101: New Technology and Opportunities",
+      "event": "Invited lecture for Inspira Health",
+      "date": "2024",
+      "location": "New Jersey, USA",
+      "description": ""
+    },
+    {
+      "name": "Introduction Artificial Intelligence: Part 2",
+      "event": "Spring Lecture Series, School of Health Professions, Stony Brook",
+      "date": "2024",
+      "location": "Stony Brook, NY, USA",
+      "description": ""
+    },
+    {
+      "name": "Introduction Artificial Intelligence: Part 1",
+      "event": "Spring Lecture Series, School of Health Professions, Stony Brook",
+      "date": "2024",
+      "location": "Stony Brook, NY, USA",
+      "description": ""
+    },
+    {
+      "name": "The Changing Landscape of SDoH Data: Overview of Key Problems, Policies, and Solutions Going Into 2024",
+      "event": "School of Health Professions, Stony Brook",
+      "date": "2024",
+      "location": "Stony Brook, NY, USA",
+      "description": ""
+    },
+    {
+      "name": "Using Python for Analyzing Open-source Public Health Datasets",
+      "event": "Program in Public Health, Stony Brook",
+      "date": "2023",
+      "location": "Stony Brook, NY, USA",
+      "description": ""
+    },
+    {
+      "name": "The Change Landscape of Social Determinants of health",
+      "event": "American Nursing Informatics Association: ANIA NY TriState Chapter – Summer Symposium",
+      "date": "2023",
+      "location": "Virtual",
+      "description": ""
+    },
+    {
+      "name": "Bringing Data to Life: Biomedical Informatics Boot Camp",
+      "event": "School of Medicine, Stony Brook University",
+      "date": "2023",
+      "location": "Stony Brook, NY, USA",
+      "description": ""
+    },
+    {
+      "name": "Healthcare and Data Literacy",
+      "event": "Department of Speech Language Pathology, Stony Brook University",
+      "date": "2023",
+      "location": "Stony Brook, NY, USA",
+      "description": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "BMI 520: Data Analytics and Software Stacks",
+      "institution": "Stony Brook University, School of Medicine",
+      "date": "2023-present",
+      "role": "Secondary instructor",
+      "description": "This course covers cutting-edge data analytic applications, infrastructure, and analytic methods. Students analyze real healthcare datasets and spatio-temporal and molecular datasets drawn from cancer research."
+    },
+    {
+      "course": "HHA 504-Update: Cloud Computing for Healthcare",
+      "institution": "Stony Brook University, School of Health Professions",
+      "date": "2023-present",
+      "role": "Primary instructor",
+      "description": "This course introduces open source cloud computing along with the skills necessary to securely deploy applications and websites to the cloud."
+    },
+    {
+      "course": "HHA 507-Update: Data Science for Healthcare: Python and R",
+      "institution": "Stony Brook University, School of Health Professions",
+      "date": "2023-present",
+      "role": "Primary instructor",
+      "description": "This course introduces the student to the emerging field of data science through the presentation of basic math and statistics principles, computer tools and software, and machine learning techniques."
+    },
+    {
+      "course": "HHA 462: Developing Health Information Systems",
+      "institution": "Stony Brook University, School of Health Professions",
+      "date": "2020-present",
+      "role": "Primary instructor",
+      "description": "Introduces students to fundamental hardware and software concepts, operating systems, GUI or desktop environments and system development life cycles."
+    },
+    {
+      "course": "HHA 504: Database Design and Development for Health Informatics Professionals",
+      "institution": "Stony Brook University, School of Health Professions",
+      "date": "2020-2023",
+      "role": "Primary instructor",
+      "description": "This course covers relational database theory and development methodology with emphasis on progression through a health information systems development life cycle."
+    },
+    {
+      "course": "HHA 506: Research Design and Methodology for the Health Informatics Professionals",
+      "institution": "Stony Brook University, School of Health Professions",
+      "date": "2020-present",
+      "role": "Primary instructor",
+      "description": "This hybrid course provides an in-depth overview of quantitative, qualitative, and mixed-methods research designs and methodologies."
+    },
+    {
+      "course": "HHA 507: Statistics for Health Informatics Professionals",
+      "institution": "Stony Brook University, School of Health Professions",
+      "date": "2020-2023",
+      "role": "Primary instructor",
+      "description": "Quantitative data analysis techniques utilized in patient safety research are explored. Topics include descriptive, inferential, and correlational statistics."
+    },
+    {
+      "course": "HHA 590: Quality Improvement Project I",
+      "institution": "Stony Brook University, School of Health Professions",
+      "date": "2020-present",
+      "role": "Primary instructor",
+      "description": "Under faculty supervision, students are given the opportunity to demonstrate integration, synthesis, and application of their knowledge and skills by identifying a real-world health informatics problem."
+    },
+    {
+      "course": "HHA 592: Quality Improvement Project II",
+      "institution": "Stony Brook University, School of Health Professions",
+      "date": "2020-present",
+      "role": "Primary instructor",
+      "description": "Students build upon previous work to design a health informatics solution for a real-world problem under faculty mentorship."
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Parsley Symptom Index",
+      "category": "Copyright",
+      "date": "2018",
+      "url": "",
+      "description": "Copyright obtained – August 24, 2018; Registration Number: TXu 2-114-289"
+    },
+    {
+      "name": "Holographic Assessment and Clinical Recommendation Tool for Acute Healthcare",
+      "category": "Patent Application",
+      "date": "2017",
+      "url": "",
+      "description": "Patent Issuer & Number: 62576145"
+    },
+    {
+      "name": "Augmented Reality Telemedicine Platform",
+      "category": "Patent Application",
+      "date": "2016",
+      "url": "",
+      "description": "Patent Issuer & Number: 62414126"
+    },
+    {
+      "name": "Cloud LeArning Studio (CLAS) Platform",
+      "category": "SUNY State Award for Innovation",
+      "date": "2023",
+      "url": "",
+      "description": "Development of an AI platform for creating digital avatars of educators to reduce the time and resources required for creating digital content."
+    },
+    {
+      "name": "AWS Health Equity Grant",
+      "category": "Grant",
+      "date": "2022",
+      "url": "",
+      "description": "Awarded $86,000 of cloud credits for the development of an app-based health navigation tool that utilizes public Social Determinant of Health data."
+    }
+  ]
+}
