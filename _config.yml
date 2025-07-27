@@ -13,7 +13,7 @@ title                    : "Hants Williams, Ph.D, R.N."
 title_separator          : "-"
 name                     : &name "Hants Williams"
 description              : &description "Clinical nurse scientist turned data specialist with 15 years of experience spanning health systems, research labs, academia, and digital health startups"
-url                      : https://academicpages-github-io-liard.vercel.app # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://about.hants-williams.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hantswilliams/academicpages.github.io"
 
