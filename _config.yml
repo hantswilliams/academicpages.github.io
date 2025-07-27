@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Hants Williams"
 description              : &description "Clinical nurse scientist turned data specialist with 15 years of experience spanning health systems, research labs, academia, and digital health startups"
 url                      : https://hantswilliams.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hantswilliams/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hants Williams, Ph.D, R.N."
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"
   bio              : "Clinical nurse scientist turned data specialist with 15 years of experience spanning health systems, research labs, academia, and digital health startups"
   location         : "New York, US"
   employer         : "Stony Brook University"
@@ -32,11 +32,11 @@ author:
   email            : "hantsawilliams@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://healthprofessions.stonybrookmedicine.edu/about/leadership"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=hnGtnzEAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1447-2327"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "hantswilliams" # Username - Update with your username on the site
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -81,8 +81,12 @@ author:
 publication_category:
   books:
     title: 'Books'
+  manuscripts_pending_submission:
+    title: 'Pending Articles, Not Submitted'
+  manuscripts_pending_review_resubmit:
+    title: 'Submitted Articles, Under Journal Review or Resubmission' 
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
