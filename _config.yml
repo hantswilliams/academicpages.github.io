@@ -22,7 +22,7 @@ repository               : "hantswilliams/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hants.jpeg"
   name             : "Hants Williams, Ph.D, R.N."
   pronouns         : "He/Him" # example: "she/her"
   bio              : "Clinical nurse scientist turned data specialist with 15 years of experience spanning health systems, research labs, academia, and digital health startups"
