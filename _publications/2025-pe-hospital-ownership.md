@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts_pending_submission
 permalink: /publication/2025-pe-hospital-ownership
 excerpt: 'This paper examines geographic disparities in private equity hospital ownership and its differential impacts on radiology services in rural versus urban settings.'
-date: 2025-09-01
+date: 2023-07-28
 venue: 'The Journal for Poor and Underserved'
 paperurl: ''
 citation: 'Paloka, R., …Williams, H. (2025). Geographic Disparity in Private Equity Hospital Ownership: Divergent Financial and Quality Impacts on Rural vs. Urban Radiology Services. <i>The Journal for Poor and Underserved</i>.'
